@@ -10,6 +10,7 @@
 <use name="roothistmatrix"/>
 <use name="RecoVertex/VertexTools"/>
 <use name="RecoVertex/VertexPrimitives"/>
+<use name="RecoVertex/KalmanVertexFit"/>
 <use name="DataFormats/L1TGlobal"/>
 <use name="IOPool/Provenance"/>
 <use name="DQMServices/Core"/>
